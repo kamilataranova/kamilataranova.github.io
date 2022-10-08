@@ -1,0 +1,10 @@
+header{
+    display:flex;
+    justify-content: space-around;
+    display:inline-block;
+    background-color: rgb(190, 240, 255);
+}
+.header__div{
+    display:inline-block;
+    width: 830px;
+}
